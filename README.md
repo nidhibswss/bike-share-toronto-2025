@@ -4,14 +4,6 @@ An Exploratory Data analysis project examining **7.8 million trips** from Toront
 
 ---
 
-## Dashboard Preview
-
-![Bike Share Toronto Monthly Trips Dashboard](Bike_share_dashboard_2025.png)
-
-*Monthly ridership peaks in July (~1.19M trips) and drops sharply in winter months, reflecting Toronto's climate-driven cycling patterns.*
-
----
-
 ## Project Structure
 
 ```
@@ -82,7 +74,7 @@ New columns extracted from `start_time`:
 
 ---
 
-## 🔭 What's Next
+## What's Next
 
 A few additional things I'd explore in future : 
 
@@ -91,7 +83,7 @@ A few additional things I'd explore in future :
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ```bash
 # Clone the repo
@@ -109,7 +101,7 @@ jupyter notebook Bike_Share_TO_2025.ipynb
 
 ---
 
-## 📌 Data Source
+## Data Source
 
 [Bike Share Toronto Ridership Data — City of Toronto Open Data](https://open.toronto.ca/dataset/bike-share-toronto-ridership-data/)
 
